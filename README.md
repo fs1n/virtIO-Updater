@@ -1,6 +1,11 @@
-# virtIO Update scripts
+# virtIO-Updater
 
-Simple collection of Update scripts for virtIO to regularly update virtIO on Windows Systems running on Proxmox.
+Update virtio-win drivers on Windows VMs.
 
 ## Usage
-Download script to the desired host. Watchout and remove external source lock on the file. execute in PowerShell 7
+
+Run in PowerShell 7:
+
+```powershell
+.\updater-win.ps1
+```
