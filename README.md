@@ -2,7 +2,5 @@
 
 Simple collection of Update scripts for virtIO to regularly update virtIO on Windows Systems running on Proxmox.
 
-1. Script execute with:
-```PowerShell
-iex (irm "https://raw.githubusercontent.com/fs1n/virtIO-Updater/refs/heads/main/updater-win.ps1")
-```
+## Usage
+Download script to the desired host. Watchout and remove external source lock on the file. execute in PowerShell 7
