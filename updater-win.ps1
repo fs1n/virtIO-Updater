@@ -83,8 +83,8 @@ function Write-Log {
 
 # Region Script
 
-$confirm = Read-Host "Should the virtIO-Drivers be updated? (J/N)"
-if ($confirm -notmatch "^[JjYy]") {
+$confirm = Read-Host "Should the virtIO-Drivers be updated? (Y/N)"
+if ($confirm -notmatch "^[Yy]") {
     Write-Host "Script Canceled." -ForegroundColor Yellow
     exit 0
 }
