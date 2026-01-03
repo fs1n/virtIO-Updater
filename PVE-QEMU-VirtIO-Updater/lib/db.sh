@@ -34,3 +34,4 @@ function update_data_json() {
     # Write updated data back to the file
     echo "$existing_data" > "$DATA_JSON"
 }
+
