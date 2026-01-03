@@ -31,3 +31,4 @@ init_logger \
   --journal \
   --tag "PVE-VirtIO-Updater"
 
+check_script_dependencies

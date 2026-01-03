@@ -15,7 +15,7 @@
   <text x="30" y="40" font-family="Arial" font-size="28" fill="#ff6600" text-anchor="middle" font-weight="bold">⚠</text>
   
   <!-- Title -->
-  <text x="60" y="36" font-family="Arial, sans-serif" font-size="18" font-weight="600" fill="#ffffff">VirtIO Driver Update Available</text>
+  <text x="60" y="36" font-family="Arial, sans-serif" font-size="18" font-weight="600" fill="#ffffff">VirtIO and QEMU GA Update Available</text>
   
   <!-- Info Box -->
   <rect x="15" y="55" width="350" height="75" fill="rgba(255,255,255,0.15)" rx="4"/>
